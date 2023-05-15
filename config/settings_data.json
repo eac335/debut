@@ -4,13 +4,15 @@
       "header": {
         "type": "header",
         "settings": {
-        }
-      },
-      "hero-1": {
-        "type": "hero",
-        "settings": {
-          "hero_size": "large",
-          "text_size": "large"
+          "align_logo": "left",
+          "logo_max_width": 100,
+          "main_linklist": "main-menu",
+          "message": false,
+          "home_page_only": true,
+          "message_text": "Announce something here",
+          "message_link": "",
+          "color_bg": "#3a3a3a",
+          "color_text": "#ffffff"
         }
       },
       "feature-row": {
@@ -50,12 +52,6 @@
         "type": "collection",
         "settings": {
           "grid": 4
-        }
-      },
-      "hero-2": {
-        "type": "hero",
-        "settings": {
-          "text_size": "large"
         }
       },
       "quotes": {
@@ -119,11 +115,14 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
+              "title": "Quick links",
+              "menu": "footer"
             }
           },
           "footer-1": {
             "type": "newsletter",
             "settings": {
+              "title": "Newsletter"
             }
           }
         },
@@ -132,10 +131,17 @@
           "footer-1"
         ],
         "settings": {
-          "show_payment_icons": true
+          "show_payment_icons": true,
+          "color_footer_bg": "#f6f6f6",
+          "color_footer_text": "#333232",
+          "show_currency_selector": true,
+          "show_locale_selector": true
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
@@ -143,6 +149,8 @@
         "header": {
           "type": "header",
           "settings": {
+            "color_bg": "#3a3a3a",
+            "color_text": "#ffffff"
           }
         },
         "hero-1": {
@@ -271,7 +279,9 @@
             "footer-1"
           ],
           "settings": {
-            "show_payment_icons": true
+            "show_payment_icons": true,
+            "color_footer_bg": "#f6f6f6",
+            "color_footer_text": "#333232"
           }
         }
       }

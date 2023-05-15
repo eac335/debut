@@ -3,118 +3,55 @@
     "hero-1": {
       "type": "hero",
       "settings": {
+        "image": "shopify:\/\/shop_images\/eco1.jpg",
+        "alignment": "bottom",
+        "hero_layout": "full_width",
         "hero_size": "large",
-        "text_size": "large"
+        "text_size": "large",
+        "title": "Image with text overlay",
+        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
-    "feature-row": {
+    "8c8efce6-fbd3-4a74-a79b-b40538a87fe4": {
       "type": "feature-row",
       "settings": {
-      }
-    },
-    "feature-columns": {
-      "type": "feature-columns",
-      "blocks": {
-        "feature-columns-0": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-1": {
-          "type": "text_block",
-          "settings": {
-          }
-        },
-        "feature-columns-2": {
-          "type": "text_block",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "feature-columns-0",
-        "feature-columns-1",
-        "feature-columns-2"
-      ],
-      "settings": {
-        "title": ""
+        "image": "shopify:\/\/shop_images\/329915729_213313957912320_6845666138155520677_n.jpg",
+        "layout": "right",
+        "title": "Geaux Moto's 'EcoYata'",
+        "text": "<p>Introducing the world's first <strong>EcoBoost swapped ND Miata<\/strong>! This ND has the body of a Miata but the heart of an EcoBoost Mustang, which will be available as a full swap kit soon! Our development car makes <strong>450 wheel horsepower<\/strong> and weighs <strong>2378 lbs<\/strong>, the same power to weight ratio as a Viper ACR! Click below to find out more!<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     },
     "collection": {
       "type": "collection",
       "settings": {
-        "grid": 4
+        "title": "Featured products",
+        "collection": "featured-products",
+        "grid": 4,
+        "rows": 2,
+        "show_vendor": false,
+        "show_view_all": false
       }
     },
-    "hero-2": {
-      "type": "hero",
+    "b71a6c44-7529-4e7c-9e0d-e10c34564f61": {
+      "type": "feature-row",
       "settings": {
-        "text_size": "large"
-      }
-    },
-    "quotes": {
-      "type": "quotes",
-      "blocks": {
-        "quotes-0": {
-          "type": "quote",
-          "settings": {
-          }
-        },
-        "quotes-1": {
-          "type": "quote",
-          "settings": {
-          }
-        },
-        "quotes-2": {
-          "type": "quote",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "quotes-0",
-        "quotes-1",
-        "quotes-2"
-      ],
-      "settings": {
-        "title": ""
-      }
-    },
-    "image-bar": {
-      "type": "image-bar",
-      "blocks": {
-        "image-bar-0": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "image-bar-1": {
-          "type": "image",
-          "settings": {
-          }
-        },
-        "image-bar-2": {
-          "type": "image",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "image-bar-0",
-        "image-bar-1",
-        "image-bar-2"
-      ],
-      "settings": {
+        "image": "shopify:\/\/shop_images\/optima_6bc9fbae-5f5f-4688-a311-d2be528be385.jpg",
+        "layout": "left",
+        "title": "Interested in the Optima Ultimate Street Car Challenge?",
+        "text": "<p><strong>Rent a car for the weekend!<\/strong> For the 2023 season, Geaux Moto is sponsoring the GTC class and will be providing the opportunity to rent one of our cars to compete with for every Optima event of the year! More information about the Optima Ultimate Street Car Challenge and rental availability can be found down below! Call us at 251-583-0785 or email us at geauxmoto@gmail.com with any questions!<\/p>",
+        "button_label": "",
+        "button_link": ""
       }
     }
   },
   "order": [
     "hero-1",
-    "feature-row",
-    "feature-columns",
+    "8c8efce6-fbd3-4a74-a79b-b40538a87fe4",
     "collection",
-    "hero-2",
-    "quotes",
-    "image-bar"
+    "b71a6c44-7529-4e7c-9e0d-e10c34564f61"
   ]
 }
