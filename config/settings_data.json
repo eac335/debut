@@ -10,9 +10,9 @@
           "main_linklist": "main-menu",
           "message": false,
           "home_page_only": true,
-          "message_text": "Announce something here",
-          "message_link": "",
-          "color_bg": "#3a3a3a",
+          "message_text": "Can't find what you're looking for? Click here to search for specific parts or part numbers!",
+          "message_link": "https:\/\/geauxmoto.com\/search",
+          "color_bg": "#e22120",
           "color_text": "#ffffff"
         }
       },
