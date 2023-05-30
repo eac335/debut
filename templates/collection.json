@@ -4,8 +4,8 @@
       "type": "collection-template",
       "settings": {
         "layout": "grid",
-        "grid": 4,
-        "rows": 2,
+        "grid": 5,
+        "rows": 8,
         "show_collection_image": true,
         "show_vendor": false,
         "sort_enable": true,

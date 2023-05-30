@@ -1,5 +1,6 @@
 {
   "current": {
+    "pt_ajax_selector": "#Collection",
     "sections": {
       "header": {
         "type": "header",
@@ -142,8 +143,7 @@
     },
     "content_for_index": [
 
-    ],
-    "pt_ajax_selector": "#Collection"
+    ]
   },
   "presets": {
     "Default": {
