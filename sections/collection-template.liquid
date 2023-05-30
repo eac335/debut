@@ -119,6 +119,12 @@
   </header>
 
   <div class="page-width" id="Collection">
+<div class="grid grid--uniform">
+<div class="grid__item small--one-whole medium-up--one-quarter">
+  {% render 'filter-menu' %}
+</div>
+<div class="grid__item small--one-whole medium-up--three-quarters">
+
     {% if section.settings.layout == 'grid' %}
       {% liquid
         case section.settings.grid
@@ -227,7 +233,11 @@
   </div>
 </div>
 
+</div>
+</div>
+
 {% endpaginate %}
+
 
 
 
