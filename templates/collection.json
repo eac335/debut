@@ -11,9 +11,92 @@
         "sort_enable": true,
         "tags_enable": false
       }
+    },
+    "a218a92f-9a1f-462c-a951-bc554084f3c4": {
+      "type": "logo-bar",
+      "blocks": {
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-0": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/audi-logo-actual.png",
+            "link": ""
+          }
+        },
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-3": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bmw-logo.png",
+            "link": ""
+          }
+        },
+        "80c247b9-4ade-4587-b519-e05813848c6f": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chevy-logo.png",
+            "link": ""
+          }
+        },
+        "9514c742-844f-4367-a257-8ebf6bb8e955": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ford-logo.png",
+            "link": ""
+          }
+        },
+        "d107b887-baf4-432f-a964-bd58acb3368a": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mazda-logo.png",
+            "link": ""
+          }
+        },
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-2": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/nissan-logo.png",
+            "link": ""
+          }
+        },
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-1": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/subaru-logo.png",
+            "link": ""
+          }
+        },
+        "6725aa9b-91ea-45c6-a7c6-d6f2b642f005": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/toyota-logo.png",
+            "link": ""
+          }
+        },
+        "f76ffd8b-c05e-41b0-8fca-32301e163110": {
+          "type": "logo_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/volkswagen-logo.png",
+            "link": "shopify:\/\/pages\/bmw"
+          }
+        }
+      },
+      "block_order": [
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-0",
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-3",
+        "80c247b9-4ade-4587-b519-e05813848c6f",
+        "9514c742-844f-4367-a257-8ebf6bb8e955",
+        "d107b887-baf4-432f-a964-bd58acb3368a",
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-2",
+        "template--18965383381284__a218a92f-9a1f-462c-a951-bc554084f3c4-16855539025af2b8a9-1",
+        "6725aa9b-91ea-45c6-a7c6-d6f2b642f005",
+        "f76ffd8b-c05e-41b0-8fca-32301e163110"
+      ],
+      "settings": {
+        "title": "Logo list"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "a218a92f-9a1f-462c-a951-bc554084f3c4"
   ]
 }
