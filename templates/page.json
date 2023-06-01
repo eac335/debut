@@ -1,10 +1,95 @@
 {
   "sections": {
     "main": {
-      "type": "page-template"
+      "type": "page-template",
+      "settings": {
+      }
+    },
+    "4a1c578d-e6dd-45bf-aa41-b7b4a4aa05ea": {
+      "type": "feature-columns",
+      "blocks": {
+        "template--18965382758692__4a1c578d-e6dd-45bf-aa41-b7b4a4aa05ea-168563044598cd4af3-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2ndgenraptoractually.jpg",
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18965382758692__4a1c578d-e6dd-45bf-aa41-b7b4a4aa05ea-168563044598cd4af3-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/3rdgenraptor.jpg",
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18965382758692__4a1c578d-e6dd-45bf-aa41-b7b4a4aa05ea-168563044598cd4af3-0",
+        "template--18965382758692__4a1c578d-e6dd-45bf-aa41-b7b4a4aa05ea-168563044598cd4af3-1"
+      ],
+      "settings": {
+        "title": "Text columns with images",
+        "align_text": "left"
+      }
+    },
+    "c5eb6380-5555-493b-9b5a-dc3d18b50848": {
+      "type": "feature-columns",
+      "blocks": {
+        "template--18965382758692__c5eb6380-5555-493b-9b5a-dc3d18b50848-168563044598cd4af3-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2005-2014_mustang.png",
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18965382758692__c5eb6380-5555-493b-9b5a-dc3d18b50848-168563044598cd4af3-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/2015_mustang.png",
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--18965382758692__c5eb6380-5555-493b-9b5a-dc3d18b50848-168563044598cd4af3-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18965382758692__c5eb6380-5555-493b-9b5a-dc3d18b50848-168563044598cd4af3-0",
+        "template--18965382758692__c5eb6380-5555-493b-9b5a-dc3d18b50848-168563044598cd4af3-1",
+        "template--18965382758692__c5eb6380-5555-493b-9b5a-dc3d18b50848-168563044598cd4af3-2"
+      ],
+      "settings": {
+        "title": "Text columns with images",
+        "align_text": "left"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "4a1c578d-e6dd-45bf-aa41-b7b4a4aa05ea",
+    "c5eb6380-5555-493b-9b5a-dc3d18b50848"
   ]
 }
